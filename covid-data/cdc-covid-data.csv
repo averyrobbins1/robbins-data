@@ -1,0 +1,23 @@
+age_group,death,n
+0 - 9 Years,confirmed_death,33
+0 - 9 Years,no death,67667
+10 - 19 Years,confirmed_death,54
+10 - 19 Years,no death,161298
+20 - 29 Years,confirmed_death,498
+20 - 29 Years,no death,467973
+30 - 39 Years,confirmed_death,1401
+30 - 39 Years,no death,449236
+40 - 49 Years,confirmed_death,3518
+40 - 49 Years,no death,424960
+50 - 59 Years,confirmed_death,9190
+50 - 59 Years,no death,418675
+60 - 69 Years,confirmed_death,18979
+60 - 69 Years,no death,288669
+70 - 79 Years,confirmed_death,27449
+70 - 79 Years,no death,148066
+80+ Years,confirmed_death,52057
+80+ Years,no death,125402
+Unknown,confirmed_death,12
+Unknown,no death,2957
+NA,confirmed_death,3
+NA,no death,78
