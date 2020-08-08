@@ -19,11 +19,11 @@
 
 # packages ----------------------------------------------------------------
 
-pacman::p_load(tidyverse, janitor)
+pacman::p_load(tidyverse, readxl, janitor)
 pacman::p_load_gh('averyrobbins1/sometools')
 
 # read data ---------------------------------------------------------------
 
-dat <- read_csv('')
+dat <- read_xlsx('covid-data/swedish')
 
 dat %>% glimpse()
